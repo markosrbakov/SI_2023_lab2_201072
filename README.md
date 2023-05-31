@@ -4,7 +4,8 @@ Marko Srbakov, 201072
 
 # CFW (слика)
 
-![MarkoLab2](https://github.com/markosrbakov/SI_2023_lab2_201072/assets/85948841/0076277c-c5aa-4599-92e8-c0efab406aaf)
+![MarkoLab2](https://github.com/markosrbakov/SI_2023_lab2_201072/assets/85948841/a89cf1bd-ed3a-4129-8317-51fb52a7643a)
+
 
 # цикломатската комплексност
 Бројот на реѓиони на графот е вкупно 10 па плус 1 надворешната збирот е 11
